@@ -1,9 +1,5 @@
 body {
     background-color: #f5f5f5;
-    background-image: url('Citywalk.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
     color: #1a1a1a; /* Default text color */
     margin: 0;
     padding: 0;
