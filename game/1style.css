@@ -3,8 +3,8 @@ body {
     background-color: #f5f5f5;
     background-image: url('Artboard 1.png');
     background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
+    background-size: 100% 64px;
+    background-position: Top Right;
     color: #1a1a1a; /* Default text color */
     margin: 0;
     padding: 0;
