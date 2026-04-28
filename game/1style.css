@@ -3,7 +3,7 @@ body {
     background-color: #000000;
     background-image: url('Artboard 1.png');
     background-repeat: no-repeat;
-    background-size: 100% 150px;
+    background-size: 80% 250px;
     background-position: center;
     color: #FFFFFF; /* Default text color */
     margin: 0;
@@ -14,7 +14,7 @@ body {
 
 /* Link colors */
 a {
-    color: #1f1f1f; /* Link color */
+    color: #FFFFFF; /* Link color */
     text-decoration: none;
 }
 
@@ -26,12 +26,12 @@ a:hover {
 
 /* Heading styles */
 h1 {
-    color: #111111; /* Heading color */
+    color: #FFFFFF; /* Heading color */
     font-size: 36px;
     margin: 24px 0 8px;
 }
 h2 {
-    color: #333333; /* Subheading color */
+    color: #FFFFFF; /* Subheading color */
     font-size: 28px;
     margin: 16px 0 8px;
 }
